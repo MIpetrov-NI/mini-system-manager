@@ -1,0 +1,71 @@
+{
+ "meta": {
+  "sha": "c55c51f3d1c45dc4aac186a3cee2eedfd4b15795",
+  "short": "c55c51f",
+  "platform": "windows",
+  "repo": "MIpetrov-NI/mini-system-manager",
+  "pages_url": "https://MIpetrov-NI.github.io/mini-system-manager",
+  "snap_base": "https://MIpetrov-NI.github.io/mini-system-manager/vi-snapshots/",
+  "dash_url": "https://MIpetrov-NI.github.io/mini-system-manager/",
+  "labview_version": "2026",
+  "tools": [],
+  "commit": {
+   "message": "Merge branch 'main' of https://github.com/MIpetrov-NI/mini-system-manager",
+   "author": "MIpetrov-NI",
+   "date": "2026-09-21T17:25:47-05:00"
+  },
+  "generated_utc": "2026-09-21 22:40 UTC"
+ },
+ "summary": {
+  "tests": 0,
+  "passed": 0,
+  "failed": 0,
+  "errored": 0,
+  "skipped": 0,
+  "percent": 0,
+  "status": "empty",
+  "duration": 0.0
+ },
+ "status_order": [
+  "failed",
+  "error",
+  "skipped",
+  "passed"
+ ],
+ "status_meta": {
+  "failed": {
+   "label": "Failed",
+   "color": "#da3633",
+   "blurb": "An assertion failed."
+  },
+  "error": {
+   "label": "Errored",
+   "color": "#bb8009",
+   "blurb": "The test raised an unexpected error."
+  },
+  "skipped": {
+   "label": "Skipped",
+   "color": "#6e7681",
+   "blurb": "The test was skipped."
+  },
+  "passed": {
+   "label": "Passed",
+   "color": "#2ea043",
+   "blurb": "The test passed."
+  }
+ },
+ "platforms": [
+  {
+   "id": "windows",
+   "url": null
+  },
+  {
+   "id": "linux",
+   "url": "linux/results.json"
+  }
+ ],
+ "suites": [],
+ "tooling": {
+  "missing": []
+ }
+}
