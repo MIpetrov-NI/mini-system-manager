@@ -19,6 +19,7 @@ on:
   workflow_run:
     workflows:
       - "Mass Compile — Windows Container"
+      - "Mass Compile — Linux Container"
       - "Mass Compile Backfill — Windows Container"
       - "Run VI Analyzer — Windows Container"
       - "VIDiff Report — Windows Container"
