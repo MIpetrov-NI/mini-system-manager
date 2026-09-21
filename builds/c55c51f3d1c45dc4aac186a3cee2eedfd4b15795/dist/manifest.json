@@ -1,0 +1,12 @@
+{
+    "repo":  "MIpetrov-NI/mini-system-manager",
+    "sha":  "c55c51f3d1c45dc4aac186a3cee2eedfd4b15795",
+    "ref":  "refs/heads/main",
+    "platform":  "windows",
+    "arch":  "AMD64",
+    "labview_version":  "LabVIEW 2026",
+    "built_at":  "2026-09-21T22:40:36Z",
+    "specs":  [
+
+              ]
+}
