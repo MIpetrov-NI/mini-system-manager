@@ -1,18 +1,10 @@
 [
   {
-    "sha": "c0eace98e6722657a11a8789b387866bb0b41880",
-    "short": "c0eace9",
-    "message": "Add LabVIEW CI pipeline",
-    "author": "Milena",
-    "date": "2026-09-21T06:08:33-05:00",
-    "vi_count": 42
-  },
-  {
-    "sha": "8f57dba6ed41dd8075cba99749215f7f7d6bb671",
-    "short": "8f57dba",
-    "message": "Add project",
+    "sha": "c55c51f3d1c45dc4aac186a3cee2eedfd4b15795",
+    "short": "c55c51f",
+    "message": "Merge branch 'main' of https://github.com/MIpetrov-NI/mini-system-manager",
     "author": "MIpetrov-NI",
-    "date": "2026-09-21T05:04:24-05:00",
+    "date": "2026-09-21T17:25:47-05:00",
     "vi_count": 42
   }
 ]
