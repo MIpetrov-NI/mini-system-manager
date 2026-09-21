@@ -1,8 +1,26 @@
 {
   "schema": 1,
   "repo": "MIpetrov-NI/mini-system-manager",
-  "sha": "23a532c538c3c798bd60c2f485e4fc7769de4999",
+  "sha": "c55c51f3d1c45dc4aac186a3cee2eedfd4b15795",
   "revisions": [
+    {
+      "sha": "c55c51f3d1c45dc4aac186a3cee2eedfd4b15795",
+      "short": "c55c51f",
+      "message": "Merge branch 'main' of https://github.com/MIpetrov-NI/mini-system-manager",
+      "author": "MIpetrov-NI",
+      "date": "2026-09-21T22:25:47Z",
+      "project": false,
+      "dep_only": false
+    },
+    {
+      "sha": "020aab785dc7a738d0eb488d4ff6db3330cb5966",
+      "short": "020aab7",
+      "message": "change!",
+      "author": "MIpetrov-NI",
+      "date": "2026-09-21T22:25:39Z",
+      "project": true,
+      "dep_only": false
+    },
     {
       "sha": "23a532c538c3c798bd60c2f485e4fc7769de4999",
       "short": "23a532c",
