@@ -1,8 +1,17 @@
 {
   "schema": 1,
   "repo": "MIpetrov-NI/mini-system-manager",
-  "sha": "c0eace98e6722657a11a8789b387866bb0b41880",
+  "sha": "23a532c538c3c798bd60c2f485e4fc7769de4999",
   "revisions": [
+    {
+      "sha": "23a532c538c3c798bd60c2f485e4fc7769de4999",
+      "short": "23a532c",
+      "message": "Refresh dashboard after Linux mass compile",
+      "author": "MIpetrov-NI",
+      "date": "2026-09-21T17:58:03Z",
+      "project": false,
+      "dep_only": false
+    },
     {
       "sha": "c0eace98e6722657a11a8789b387866bb0b41880",
       "short": "c0eace9",
