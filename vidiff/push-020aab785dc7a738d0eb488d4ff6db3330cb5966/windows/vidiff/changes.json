@@ -1,0 +1,10 @@
+{
+  "platform": "windows",
+  "files": [
+    {
+      "file": "mini-system-manager-main/main.vi",
+      "type": "modified",
+      "report": "mini-system-manager-main-main.vi/index.html"
+    }
+  ]
+}
