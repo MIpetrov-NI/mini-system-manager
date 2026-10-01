@@ -1,7 +1,7 @@
 {
-  "version": "win-c6221662a861",
+  "version": "win-7ace60c91588",
   "platform": "windows",
-  "manifest_url": "https://mipetrov-ni.github.io/mini-system-manager/workers/windows/win-c6221662a861/manifest.html",
-  "build_date": "2026-09-21T11:09:05Z",
-  "git_sha": "c0eace98e6722657a11a8789b387866bb0b41880"
+  "manifest_url": "https://mipetrov-ni.github.io/mini-system-manager/workers/windows/win-7ace60c91588/manifest.html",
+  "build_date": "2026-10-01T11:43:12Z",
+  "git_sha": "c55c51f3d1c45dc4aac186a3cee2eedfd4b15795"
 }
